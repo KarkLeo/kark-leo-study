@@ -41,3 +41,4 @@ jobs:
           server: karkleo.ftp.tools
           username: karkleo_ftp
           password: YBsY494hDft8
+          port: 21 
