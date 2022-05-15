@@ -32,3 +32,4 @@ jobs:
           username: karkleo_ftp
           password: YBsY494hDft8
           port: 21 
+          server-dir: ./kark-leo.com/www/	
